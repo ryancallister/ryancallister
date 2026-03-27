@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ryancallister
-- 🌱 I’m currently learning programming with HTML/CSS/JavaScript
-- 📫 How to reach me: Send me a message at ryancallister@suumail.net
+- 🌱 I’m a Systems Administrator
+- 📫 How to reach me: Send me a message at me@ryancallister.com
 
 <!---
 ryancallister/ryancallister is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
